@@ -1,4 +1,4 @@
-### Simulador de Paginação de Memória
+# Simulador de Paginação de Memória
 
 ## Integrantes do Grupo
 
